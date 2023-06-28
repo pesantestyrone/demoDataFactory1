@@ -1,0 +1,7 @@
+{
+	"name": "IRSQLServerOnPremiseTyrone",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Laptop Tyrone Bi Solutions"
+	}
+}
