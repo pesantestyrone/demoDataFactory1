@@ -1,0 +1,17 @@
+{
+	"name": "SQLServerOnPremiseTyrone",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=True;data source=JEFEPRODUCCION;initial catalog=demo",
+			"userName": "JEFEPRODUCCION\\ADMIN025",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0YjEzNWNlYi1hOTU3LTRiM2UtYTBjYi1lMWNmMjcyZjY3ZTgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "IRSQLServerOnPremiseTyrone",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
