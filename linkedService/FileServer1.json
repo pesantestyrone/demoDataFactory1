@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "\\\\JEFEPRODUCCION\\DataFactory",
+			"host": "\\\\JEFEPRODUCCION\\Demos\\Zurich\\DataFactory",
 			"userId": "JEFEPRODUCCION\\USER025",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyYmM3ODZhMy04YjU3LTQ0NjEtYjI2OS1iMDdhYTRmMjE3NjEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJlNTBkMzJkYS1mYzI0LTRlOGUtODUxNi1hODViY2M0NzNkNzMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "IRSQLServerOnPremiseTyrone",
