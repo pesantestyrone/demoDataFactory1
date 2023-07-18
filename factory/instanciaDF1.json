@@ -1,0 +1,9 @@
+{
+	"name": "instanciaDF1",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "eastus"
+}
